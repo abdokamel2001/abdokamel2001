@@ -67,12 +67,12 @@ exit /b 0
 set /p c=Do you want to delete the folders after conversion? [Y/N]: 
 if /i not %c%==y (if /i not %c%==n (goto :Enable))
 for /d %%i in (*) do (
-	if not exist "%%i.cbz" (
-		"%ProgramFiles%\7-Zip\7z.exe" a "%%i.zip" .\"%%i"\*.jpg .\"%%i"\*.png > nul
-		ren "%%i.zip" "%%i.cbz"
-	)
-	if /i %c%==y (rmdir /s /q "%%i")
-	echo %%i.cbz
+if not exist "%%i.cbz" (
+"%ProgramFiles%\7-Zip\7z.exe" a "%%i.zip" .\"%%i"\*.jpg .\"%%i"\*.png > nul
+ren "%%i.zip" "%%i.cbz"
+)
+if /i %c%==y (rmdir /s /q "%%i")
+echo %%i.cbz
 )
 exit /b 0
 
@@ -80,11 +80,11 @@ exit /b 0
 set /p c=Do you want to delete CBZ files after conversion? [Y/N]: 
 if /i not %c%==y (if /i not %c%==n (goto :Disable))
 for %%i in (*.cbz) do (
-	if not exist "%%~ni" (
-		"%ProgramFiles%\7-Zip\7z.exe" e "%%i" -o"%%~ni" -y > nul
-		type nul > "%%~ni\.nomedia"
-	)
-	if /i %c%==y (del /s /q "%%i" > nul)
-	echo %%~ni
+if not exist "%%~ni" (
+"%ProgramFiles%\7-Zip\7z.exe" e "%%i" -o"%%~ni" -y > nul
+type nul > "%%~ni\.nomedia"
+)
+if /i %c%==y (del /s /q "%%i" > nul)
+echo %%~ni
 )
 exit /b 0
