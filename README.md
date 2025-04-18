@@ -1,30 +1,62 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Ahmed Kamel</h1>
-<h3 align="center">A passionate developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Abdelrahman Ahmed Kamel</h1>
+<h3 align="center">A passionate AI developer from Egypt</h3>
 
-- 👀 I’m interested in **building new, fun and useful programs**
+- 🎓 **Computer &amp; Systems Engineering graduate** (Zagazig University) with hands‑on expertise in **Machine Learning**, **Computer Vision**, and **IoT**  
+- 💼 **AI Engineer @ CorrControl** – delivering production‑grade corrosion‑prediction and asset‑integrity solutions  
+- 🚀 Building everything from mobile apps & games to full AI pipelines – if it’s fun *and* useful, I’m in!  
+- 🌱 **Always learning:** currently diving deep into advanced neural networks 
+- 📫 **Reach me:** eng.abdelrahman.ahmed.kamel@gmail.com  
 
-- 🌱 I’m currently learning about **Neural Networks and Embedded systems**
+---
 
-- 📫 How to reach me : **eng.abdelrahman.ahmed.kamel@gmail.com**
+## Connect with me
+<p>
+  <a href="https://linkedin.com/in/abdokamel2001"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="36" /></a>&nbsp;
+  <a href="https://kaggle.com/abd0kamel"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="36" /></a>&nbsp;
+  <a href="https://medium.com/@abdelrahman.ahmed.kamel"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="36" /></a>&nbsp;
+    <a href="https://stackoverflow.com/users/20463236"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="36" /></a>
+</p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.java.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.python.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></p>
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-<a href="https://www.arduino.cc/" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/studio/images/android-studio-canary.svg" alt="android" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.photoshop.com/en" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></p>
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdokamel2001" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="abdokamel2001" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/20463236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20463236" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/abdokamel2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdokamel2001" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/eng_abdelrahma21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eng_abdelrahma21" height="30" width="40" /></a></p>
+## Languages&nbsp;&amp;&nbsp;Core Tech
+<p>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>&nbsp;
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>&nbsp;
+  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>&nbsp;
+  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+</p>
+
+## AI&nbsp;&amp;&nbsp;Data Stack
+<p>
+  <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>&nbsp;
+  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>&nbsp;
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"/></a>&nbsp;
+  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
+</p>
+
+## Cloud&nbsp;&amp;&nbsp;DevOps
+<p>
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>&nbsp;
+  <a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></a>&nbsp;
+  <a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>&nbsp;
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+</p>
+
+## Embedded&nbsp;&amp;&nbsp;Mobile
+<p>
+  <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>&nbsp;
+  <a href="https://developer.android.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>&nbsp;
+  <a href="https://flutter.dev/"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>&nbsp;
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdokamel2001&layout=compact&hide_border=true&theme=default" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdokamel2001&show_icons=true&hide_border=true&theme=default" style="height: 200px;"/>
+</p>
 
