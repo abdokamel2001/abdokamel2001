@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI developer from Egypt</h3>
 
 - 🎓 **Computer &amp; Systems Engineering graduate** (Zagazig University) with hands‑on expertise in **Machine Learning**, **Computer Vision**, and **IoT**  
-- 💼 **AI Engineer @ Pelcro** – Designing and deploying LLM-powered agents for customer support and internal automation.
+- 💼 **AI Engineer @ SehaTech** – Designing and deploying LLM-powered agents for customer support and internal automation.
 - 🚀 Building everything from mobile apps & games to full AI pipelines – if it’s fun *and* useful, I’m in!  
 - 🌱 **Always learning:** currently diving deep into advanced neural networks 
 - 📫 **Reach me:** eng.abdelrahman.ahmed.kamel@gmail.com  
