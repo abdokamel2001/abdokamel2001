@@ -52,11 +52,3 @@
   <a href="https://flutter.dev/"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>&nbsp;
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdokamel2001&layout=compact&hide_border=true&theme=default" style="height: 170px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abdokamel2001&show_icons=true&hide_border=true&theme=default" style="height: 170px;"/>
-</p>
-
